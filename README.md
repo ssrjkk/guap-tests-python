@@ -5,7 +5,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-4.x-orange)
 ![k6](https://img.shields.io/badge/k6-load%20testing-green)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker&logoColor=white)
-![CI](https://github.com/ssrjkk/guap-test-framework-python/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ssrjkk/guap-tests-python/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://img.shields.io/badge/coverage-65%25-yellow)
 ![Tests](https://img.shields.io/badge/tests-API%2BUI%2Bload-brightgreen)
 ![Run](https://img.shields.io/badge/run-~45sec-blue)
