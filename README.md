@@ -29,8 +29,8 @@
 
 ```bash
 # Клонировать
-git clone https://github.com/ssrjkk/guap-test-framework-python.git
-cd guap-test-framework-python
+git clone https://github.com/ssrjkk/guap-tests-python.git 
+cd guap-tests-python
 
 # Установить зависимости
 pip install -r requirements.txt
