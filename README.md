@@ -1,4 +1,4 @@
-# Guap.ru Test Framework (Python)
+# Guap.ru Tests (Python) By ssrjkk
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-8.1-green?logo=pytest&logoColor=white)
@@ -9,10 +9,6 @@
 ![Coverage](https://img.shields.io/badge/coverage-65%25-yellow)
 ![Tests](https://img.shields.io/badge/tests-API%2BUI%2Bload-brightgreen)
 ![Run](https://img.shields.io/badge/run-~45sec-blue)
-
-> 30+ API/UI-тестов | ⚡ Запуск: ~30 сек | 🛡 Стабильность: 95% | 🐳 Docker-ready
-
-Фреймворк для проверки контрактов и бизнес-логики guap.ru: API + UI + DB.
 
 ---
 
